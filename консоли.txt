@@ -1,0 +1,4 @@
+java -classpath "C:\Users\Angel\IdeaProjects\JavaTest\target\classes;C:\Users\Angel\IdeaProjects\JavaTest\target\test-classes;C:\Users\Angel\.m2\repository\org\testng\testng\7.11.0\testng-7.11.0.jar;C:\Users\Angel\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\Angel\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\Angel\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar" org.testng.TestNG testng1.xml
+команда джава
+
+pytest -v -m data команда питон
