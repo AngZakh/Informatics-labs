@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="OsnovnyeOnly" verbose="1">
+
+    <test name="osnovnyeOnly">
+        <groups>
+            <run>
+                <include name="osnovnye"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.MainTest"/>
+        </classes>
+    </test>
+
+</suite>
